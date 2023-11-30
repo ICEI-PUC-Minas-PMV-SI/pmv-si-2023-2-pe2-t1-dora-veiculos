@@ -1,16 +1,17 @@
-# Nome do projeto
+# Dora Veículos
 
 Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Daniel Araújo Pinto
+* Gustavo Santos Silva
+* Igor Ribeiro de Souza
+* Jaderson Coelho Dutra
+* Junio Firmino
+* Lucas Brandão Guedes
 * Luigi von Blücher Mezzogori
-* Nome completo do aluno 6
 
 ## Professor
 
-* Nome completo do professor
+* Eveline Alonso Veloso
