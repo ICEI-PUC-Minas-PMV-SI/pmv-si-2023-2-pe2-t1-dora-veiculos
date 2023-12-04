@@ -10,6 +10,5 @@ Os principais documentos a serem produzidos são:
 
 
 * `modelo relacional`
-	* Apresentar o modelo relacional em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+	![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-dora-veiculos/assets/127332121/6a91ea2b-e55b-437f-a1de-5d21aa392d37)
 
-Demais artefatos que julgar pertinentes.
