@@ -2,7 +2,8 @@
 
 Modelo AS IS:
 - Processo Cadastro de Clientes AS IS
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-dora-veiculos/assets/127332121/e91c5e9f-5d11-4006-86fb-9af55238b705)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-dora-veiculos/assets/127332121/f69355cc-a9d1-4122-9248-028ef66b3626)
+
 
 - Processo Aluguel de Veículo AS IS
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-dora-veiculos/assets/127332121/f34829bc-85de-4ba3-99a6-524d254826a6)
